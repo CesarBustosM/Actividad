@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\actividadrealizar\\ingresado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|solutionrelative:actividadrealizar\\ingresado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\actividadrealizar\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|solutionrelative:actividadrealizar\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|c:\\users\\usuario\\source\\repos\\actividadrealizar\\actividadrealizar\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|solutionrelative:actividadrealizar\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\actividadrealizar\\ingresado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|solutionrelative:actividadrealizar\\ingresado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\actividadrealizar\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|solutionrelative:actividadrealizar\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\actividadrealizar\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|solutionrelative:actividadrealizar\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\actividadrealizar\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF162EB-F7A8-4A77-9C17-C757F80CBC5E}|ActividadRealizar\\ActividadRealizar.csproj|solutionrelative:actividadrealizar\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Principal.cs",
+              "RelativeDocumentMoniker": "ActividadRealizar\\Principal.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadRealizar\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T23:08:23.166Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ingresado.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Ingresado.cs",
+              "RelativeDocumentMoniker": "ActividadRealizar\\Ingresado.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Ingresado.cs",
+              "RelativeToolTip": "ActividadRealizar\\Ingresado.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:47:54.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "ActividadRealizar\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Login.Designer.cs",
+              "RelativeToolTip": "ActividadRealizar\\Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T23:21:55.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Login.cs",
+              "RelativeDocumentMoniker": "ActividadRealizar\\Login.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadRealizar\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:31:16.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ingresado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Ingresado.cs",
+              "RelativeDocumentMoniker": "ActividadRealizar\\Ingresado.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Ingresado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadRealizar\\Ingresado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T23:27:03.95Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Login.cs",
+              "RelativeDocumentMoniker": "ActividadRealizar\\Login.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Login.cs",
+              "RelativeToolTip": "ActividadRealizar\\Login.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:58:25.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CConexion.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Clases\\CConexion.cs",
+              "RelativeDocumentMoniker": "ActividadRealizar\\Clases\\CConexion.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ActividadRealizar\\ActividadRealizar\\Clases\\CConexion.cs",
+              "RelativeToolTip": "ActividadRealizar\\Clases\\CConexion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:32:33.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
